@@ -1,0 +1,29 @@
+{
+	"name": "@delight-im/neural-network",
+	"version": "1.0.1",
+	"description": "Neural networks in JavaScript. Well-documented and object-oriented.",
+	"main": "src/main.js",
+	"license": "Apache-2.0",
+	"author": "delight.im",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/delight-im/JS-NeuralNetwork.git"
+	},
+	"keywords": [
+		"machine-learning",
+		"machine learning",
+		"neural-network",
+		"neural network",
+		"classifier",
+		"learning",
+		"neural",
+		"network"
+	],
+	"bugs": {
+		"url": "https://github.com/delight-im/JS-NeuralNetwork/issues"
+	},
+	"homepage": "https://github.com/delight-im/JS-NeuralNetwork#readme",
+	"dependencies": {
+		"@delight-im/prng": "^1.0.0"
+	}
+}

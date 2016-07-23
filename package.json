@@ -3,7 +3,7 @@
 	"version": "1.0.1",
 	"description": "Neural networks in JavaScript. Well-documented and object-oriented.",
 	"main": "src/main.js",
-	"license": "Apache-2.0",
+	"license": "MIT",
 	"author": "delight.im",
 	"repository": {
 		"type": "git",
